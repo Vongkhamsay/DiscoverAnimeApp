@@ -1,1 +1,1 @@
-# DiscoverAnimeApp
+# React-Native-Template-Expo
